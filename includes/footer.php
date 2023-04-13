@@ -1,0 +1,1 @@
+<label for="">Copyright © 2021-2022 Coaching Estratégico Jesús Lorente Todos los derechos reservados.</label>
